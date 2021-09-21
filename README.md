@@ -1,3 +1,2 @@
 # JUST_IT
-![testimage](https://github.com/tograh/testrepository/3DTest.png)
-![Test Image 7](https://github.com/tograh/testrepository/master/3DTest.png)
+![1](https://user-images.githubusercontent.com/67466775/134230467-649bb457-dd01-423b-9e4c-ab142035e61c.jpg)
